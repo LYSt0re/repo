@@ -1,11 +1,11 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
-	<version>1.0.0-1</version>
+	<id>io.teamboss.appshack</id>
+	<name>Apps Hack</name>
+	<version>3.0-1k</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
-			<maxiOS>7.0</maxiOS>
+			<miniOS>12.0</miniOS>
+			<maxiOS>14.0</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -14,7 +14,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>Apps Hacka is new tool to hack more programs and games father store more than 300 hacks on this package.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
