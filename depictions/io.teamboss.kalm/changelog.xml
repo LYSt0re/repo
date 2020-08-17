@@ -1,0 +1,7 @@
+<changelog>
+	<changes>
+		<version>2.0.4</version>
+		<change>Fixed SpringBoard crash linked with notifications list.</change>
+		<change>Fixed rare SpringBoard crash when using custom fonts.</change>
+	</changes>
+</changelog>

@@ -1,0 +1,53 @@
+<package>
+	<id>io.teamboss.dleasycracked</id>
+	<name>DLEasy نسخة كاملة</name>
+	<version>2.8.6-2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<maxiOS>14.0</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, curl</package>
+	</dependencies>
+	<shortDescription>Allow you to Download/share images & videos from social apps easily!</shortDescription>
+	<descriptionlist>
+		<description>Long press to save/share video and image.</description>
+		<description>Support A12 & A13 on iOS 13.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>cydia1.png</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>cydia2.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>cydia3.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>cydia4.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>cydia5.png</image>
+		</screenshot>		
+	</screenshots>
+	<links>
+		<link>
+			<name>Our Telegram</name>
+			<url>https://t.me/HackBossAli</url>
+			<iconclass>fa fa-telegram</iconclass>
+		</link>
+	</links>
+</package>

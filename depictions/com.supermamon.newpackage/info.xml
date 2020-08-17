@@ -5,6 +5,7 @@
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
+			<maxiOS>7.0</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -22,24 +23,23 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
+			<description></description>
+			<image>cydia1.png</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
+			<description></description>
+			<image>cydia2.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>cydia3.png</image>
 		</screenshot>		
 	</screenshots>
-	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
-	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<name>Our Telegram</name>
+			<url>https://t.me/HackBossAli</url>
+			<iconclass>fa fa-telegram</iconclass>
 		</link>
 	</links>
 </package>

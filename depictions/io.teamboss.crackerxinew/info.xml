@@ -1,0 +1,24 @@
+<package>
+	<id>io.teamboss.crackerxinew</id>
+	<name>CrackerXI+ (iOS 11 to 13)</name>
+	<version>1.1.16</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>14.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>أداة فك تشفير التطبيقات والالعاب واستخراجها بصيغة iPA.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

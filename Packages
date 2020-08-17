@@ -135,3 +135,217 @@ MD5sum: c6070893d10eb3ace435d7f5cdb6e553
 SHA1: 1112854eaffa8e4777f940f9c143a04b385e77ee
 SHA256: a2e2735433a664eb72ed4eca720d2a5ae7f45e92bb7da8f65fc263516d41b0a7
 Depiction: https://teamboss.github.io/repo/depictions/?p=io.teamboss.wallhackv1
+
+Package: io.teamboss.crackerxinew
+Name: CrackerXI+ (iOS 11 to 13)
+Version: 1.1.16
+Section: Tweaks
+Depends: firmware (>= 11.0)
+Description: أداة فك تشفير التطبيقات والالعاب واستخراجها بصيغة iPA
+Author: SarahH12099 <nomail@mail.no>
+Maintainer: Team-BoSS <nomail@mail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/io.teamboss.crackerxinew_1.1.16_iphoneos-arm.deb
+Size: 6184608
+MD5sum: b9b1ed0d8ec84706e5daa306b18bc520
+SHA1: ab75ea22a9d05f984313610d392c2ad5390059d7
+SHA256: 7711e73c53a74c61b8fe234980e3470a320d4436aa83147882c1e87fbfdc2b83
+Homepage: https://t.me/HackBossAli
+Depiction: https://teamboss.github.io/repo/depictions/?p=io.teamboss.crackerxinew
+Icon: file:///Applications/crackerxi.app/AppIcon.png
+
+Package: io.teamboss.dleasycracked
+Name: DLEasy نسخة كاملة
+Version: 2.8.6-2
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, curl
+Description: نسخة كاملة مكركة
+Author: AhmedBafkire <nomail@mail.no>
+Maintainer: Team-BoSS <nomail@mail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/io.teamboss.dleasycracked_v2.8.6-2.deb
+Size: 3389936
+MD5sum: c36aee4d9c34f5493b806d3e8b3e84a7
+SHA1: b86327acc62f4e045ad23610c2c3a09ad030ee82
+SHA256: b12411ef6857e36be78bc6754be4ac4f9b53fc44b1ca36f4f4e26b3ce8aac103
+Homepage: https://t.me/HackBossAli
+Depiction: https://teamboss.github.io/repo/depictions/?p=io.teamboss.dleasycracked
+Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
+
+Package: io.teamboss.flashmod
+Name: PUBGMv19 Free Mod Menu
+Version: 0.19.0
+Section: PUBG Mobile
+Depends: mobilesubstrate
+Author: Team-BoSS <nomail@mail.no>
+Maintainer: Avrest <nomail@mail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/io.teamboss.flashmod_v0.19.0.deb
+Size: 337816
+MD5sum: 5d5bce73023739f7ae1ed49fb4817ba8
+SHA1: 3ec3a52047eabd8f4dd64b596b501ba379169f77
+SHA256: 4c51307d0dc2e4069ba4cfb0bf14445502df0fe54cf52c8316cde23ac4b60a26
+Homepage: https://t.me/HackBossAli
+Depiction: https://teamboss.github.io/repo/depictions/?p=io.teamboss.flashmod
+
+Package: io.teamboss.kalm
+Name: Kalm
+Version: 2.0.4
+Section: Tweaks
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.ioscreatix.twig, xyz.royalapps.jellyfish, com.bengiannis.manta, com.xcxiao.simplels2, com.lacertosusrepo.speculum, com.twickd.julius.april
+Description: A beautiful first sight.
+Author: ubik <nomail@mail.no>
+Maintainer: Team-BoSS <nomail@mail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/io.teamboss.kalm_2.0.4_iphoneos-arm.deb
+Size: 239424
+MD5sum: fe0859a3a5cd504e1aebe4df68ad3fb0
+SHA1: 51aef407fd30b06f9addf48e9c33f5f6286d7783
+SHA256: 9fd86dca31c5e2a7518b0846c95fde9af43179658a84a732dff614d1b5c4882b
+Homepage: https://t.me/HackBossAli
+Depiction: https://teamboss.github.io/repo/depictions/?p=io.teamboss.kalm
+Icon: https://chariz.com/cdn/icon/kalm/icon@3x.png
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Version: 0.2.5.6
+Section: Tweaks
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
+Description: Advanced Jailbreak Detection Bypass.
+Author: XsF1re <nomail@mail.no>
+Maintainer: Team-BoSS <nomail@mail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/kr.xsf1re.flyjb_0.2.5.6_iphoneos-arm.deb
+Size: 504092
+MD5sum: e28af7473fb9801ba31f791a2e064c0e
+SHA1: 6a9c6d1ed9f8efafd38b8d783407fea293e9215f
+SHA256: 8833c782278bf28d29a6388c49f66349234bc2a6f7672b887a7d9c81bf90c709
+Homepage: https://t.me/HackBossAli
+Depiction: https://teamboss.github.io/repo/depictions/?p=kr.xsf1re.flyjb
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+
+Package: io.teamboss.kernbypass
+Name: KernBypass
+Version: 0.0.3
+Section: System
+Depends: mobilesubstrate, applist, preferenceloader, firmware(>=12.0)
+Description: KernLevel Jailbreak Detection Bypass
+Author: akusio <nomail@mail.no>
+Maintainer: Team-BoSS <nomail@mail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/io.teamboss.kernbypass_v0.0.4.deb
+Size: 14208
+MD5sum: ef7e7b1aa36b02e2af64518649659cad
+SHA1: 6ca4bd607aff06d1b2d27e3f28a3e8250734158e
+SHA256: 241d5bbe58d9bfc443e80eebac5e70d97bf646f5b6ca4f6c56ac534b58bd71d7
+Homepage: https://t.me/HackBossAli
+Depiction: https://teamboss.github.io/repo/depictions/?p=io.teamboss.kernbypass
+
+Package: io.teamboss.pasithea2
+Name: Pasithea 2 (iOS 10 to 13)
+Version: 2.2.4.1
+Section: Tweaks
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1), applist (>= 1.5.15~beta1), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3), net.angelxwind.karenlocalizer (>= 1.0.5), com.opa334.ccsupport (>= 1.2-3) | com.ichitaso.pasithea2flipswitch
+Conflicts: com.ichitaso.pasteboardswitch, com.ichitaso.pasithea, com.ichitaso.pasithea2
+Replaces: com.cannathea.pasithea2
+Description: Manage the iOS pasteboard history
+Author: Cannathea <nomail@mail.no>
+Maintainer: Team-BoSS <nomail@mail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/io.teamboss.pasithea2_2.2.4.1_iphoneos-arm.deb
+Size: 498952
+MD5sum: 181e3677788d7fb51b2478e09b211168
+SHA1: 31d0975702c1a4c6d22033686e41c4e9676694c0
+SHA256: 77d1e9abce08581742f69529cbf8286d98d45fd6ec3494a8b69b8d3f9cacb6e4
+Homepage: https://t.me/HackBossAli
+Depiction: https://repo.packix.com/package/com.cannathea.pasithea2/
+Icon: file:///Library/PreferenceBundles/PasitheaSettings.bundle/Pasithea@2x.png
+
+Package: io.teamboss.propubg19
+Name: PUBG MOD MENU hsk
+Version: 0.19.0-3+debug
+Section: Tweaks
+Depends: mobilesubstrate
+Description: PUBG HACK MOD MENU BY HSK-DEV!
+Author: HSK <nomail@mail.no>
+Maintainer: Team-BoSS <nomail@mail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/io.teamboss.propubg19_0.19.0-3+debug_iphoneos-arm.deb
+Size: 188504
+MD5sum: 507048ab7ddd3f5adda466673b870dce
+SHA1: 71859c0446af49a28d3e322f495dc3adfd060d6f
+SHA256: 328308a7ffd87d48302596d43f4623afd8b73599a9660a176ee39451c92cdebc
+Homepage: https://t.me/HackBossAli
+Depiction: https://teamboss.github.io/repo/depictions/?p=io.teamboss.propubg19
+
+Package: net.myclassic.sapnclassic
+Name: SnapBreak الأصلية
+Version: 1.7.1
+Section: Tweaks
+Depends: firmware (>= 10.0), mobilesubstrate, sed
+Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.pantsthief.snapchatnoclickbait, com.timecompiler.snapchatlog, com.nathaningraham.snapchatlowpowermodeenabler, com.expetelek.keepsnapchatsignedin, com.chloeeisoaky.luminous, com.neinzedd9.scfiltermover, net.ibrahim.scstorytimer, com.ithegentle.snapcheck, com.bengerard.snapselect, com.yungraj.streaknotify, com.n00neimp0rtant.picarchiver, brexit.chloee.snapcolor, com.cokepokes.PhantomFak
+Description: نسخة أصلية مفعلة بجميع المزايا
+Author: Classic <nomail@mail.no>
+Maintainer: Team-BoSS <nomail@mail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/net.myclassic.sapnclassic_1.7.1_iphoneos-arm.deb
+Size: 5085874
+MD5sum: 5efabf8b07cb0ee7d7d62acd1a2965ca
+SHA1: 12eb5ff1d830e3f95415fecc73741d81e33df308
+SHA256: fea643a4e3c8b5f4f58ba79705410a2c6d7abaf446ad67f21a0e408731a4987e
+Homepage: https://t.me/HackBossAli
+Depiction: https://teamboss.github.io/repo/depictions/?p=net.myclassic.sapnclassic
+
+Package: net.myclassic.snapbreakas
+Name: SnapBreak سناب بريك
+Version: 1.7.1
+Section: Tweaks
+Depends: firmware (>= 10.0), mobilesubstrate, sed
+Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.s0me1ne.betaatweakdisabler, fr.s0me1ne.betasnapbreak, com.s0me1ne.atweakdisabler, fr.s0me1ne.snapbreak
+Description: نسخة مكركة
+Author: Classic <nomail@mail.no>
+Maintainer: Team-BoSS <nomail@mail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/net.myclassic.snapbreakas_1.7.1_iphoneos-arm.deb
+Size: 6465106
+MD5sum: 675679f647b8c7c1d4e94dc20f9be9f7
+SHA1: 15cba3291831f3b484e79731980ab6cb620a6b05
+SHA256: 3ec50d212a7ca276abac01a543fe0386b2871de992bf32a1136a81395ec594aa
+Homepage: https://t.me/HackBossAli
+Depiction: https://teamboss.github.io/repo/depictions/?p=net.myclassic.snapbreakas
+
+Package: io.teamboss.speedtestpp
+Name: Speedtest++
+Version: 1.0.0.1
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 10.0)
+Description: No ads on Speedtest App
+Author: SarahH12099 <nomail@mail.no>
+Maintainer: Team-BoSS <nomail@mail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/io.teamboss.speedtestpp_1.0.0.1_iphoneos-arm.deb
+Size: 3696
+MD5sum: 506a46af9ceb37e7a67c7be1089dcf1f
+SHA1: 4cb57b8529322333b68ddc36bb4ed6a3543dc580
+SHA256: d9ec0c485777dcd76bbe76c13b249cf52581e8ccdca2948dd58f31eec337625a
+Homepage: https://t.me/HackBossAli
+Depiction: https://teamboss.github.io/repo/depictions/?p=io.teamboss.speedtestpp
+
+Package: io.teamboss.velvet
+Name: Velvet
+Version: 1.2.0
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, net.limneos.libbulletin (>= 0.1-153), com.spark.libsparkcolourpicker
+Description: A new way to customize your notifications!
+Author: initWithFrame <nomail@mail.no>
+Maintainer: Team-BoSS <nomail@mail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/io.teamboss.velvet_1.2.0_iphoneos-arm.deb
+Size: 164356
+MD5sum: 20ecf8d0c855eb69de9cc01ebb2a74e2
+SHA1: 2e62b7836c5fd49fdafd32f06ff73bb7606c279c
+SHA256: fd8ee7f803cd299c92a67ea2262cefb79e375507da3aae17c302df52950ce765
+Homepage: https://t.me/HackBossAli
+Depiction: https://chariz.com/buy/velvet
+Icon: https://chariz.com/cdn/icon/velvet/icon@3x.png

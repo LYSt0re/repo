@@ -1,0 +1,53 @@
+<package>
+	<id>io.teamboss.kalm</id>
+	<name>Kalm</name>
+	<version>2.0.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<maxiOS>14.0</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>firmware (>= 12.0), mobilesubstrate, preferenceloader</package>
+	</dependencies>
+	<shortDescription>A beautiful first sight.</shortDescription>
+	<descriptionlist>
+		<description>Kalm is a beautiful first sight when you look at your device. It’s soft, it’s modern, it’s clean – always tinted in your wallpapers colors so it fits right in.</description>
+		<description>Supports iPhone, iPad, and iPod touch running iOS 12.0 - 13.6. Jailbreak required.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>cydia1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>cydia2.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>cydia3.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>cydia4.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>cydia5.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<links>
+		<link>
+			<name>Our Telegram</name>
+			<url>https://t.me/HackBossAli</url>
+			<iconclass>fa fa-telegram</iconclass>
+		</link>
+	</links>
+</package>
