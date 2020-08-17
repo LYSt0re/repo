@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/AmrLYKH</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>Join us on Telegram</name>
+			<url>https://t.me/HackBossAli</url>
+			<iconclass>fa fa-telegram</iconclass>
+		</link>
+	</footerlinks>
+</repo>
