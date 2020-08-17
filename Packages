@@ -12,4 +12,126 @@ Size: 1533776
 MD5sum: ff1891044e47aa55b10902e0d9009859
 SHA1: be1ff23f844a694099bb430c0dd005d394582eea
 SHA256: dbca762d72f851838c62ab5e6a8260d339b9d5ad2699db434ed717abe0e38d85
+Homepage: https://t.me/HackBossAli
 Depiction: https://teamboss.github.io/repo/depictions/?p=io.teamboss.appshack
+
+Package: io.teamboss.changeoid
+Name: ChangeOpenID
+Version: 0.20
+Section: Tweaks
+Description: Change OpenID for your device By Team-BoSS Group
+Author: Team-BoSS <nomail@mail.no>
+Maintainer: Team-BoSS <nomail@mail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/io.teamboss.appshack_3.0-1k_iphoneos-arm.deb
+Size: 1533776
+MD5sum: 361649fc9a0999d71812ab85ae42e2bc
+SHA1: 5194f2cf482e96d9544174e61d27643c0e9fc9d9
+SHA256: 4381446db232d8369282f91f7ea6d09fa8813db993b5040dae37e3a5c0ad6707
+Homepage: https://t.me/HackBossAli
+Depiction: https://teamboss.github.io/repo/depictions/?p=io.teamboss.changeoid
+
+
+Package: io.teamboss.chinesehack
+Name: الهاك الصيني كورية وعالمية
+Version: 0.20.3
+Section: PUBG Mobile
+Depends: mobilesubstrate
+Description: الهاك الصيني ابو ثلاث أصابع الغني عن التعريف
+Author: Baby <nomail@mail.no>
+Maintainer: Team-BosS <nomail@mail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/io.teamboss.chinesehack_0.20.3_iphoneos-arm.deb
+Size: 73660
+MD5sum: 6057ce28115fdbfb02e5da0a38683623
+SHA1: 2d229065b08b54502fa64d8449a04939c1e67ea4
+SHA256: e06feab3cc1c0b621acbbce7f2136c474c950d4d7de5673295dc0346cfd58f1e
+Homepage: https://t.me/HackBossAli
+Depiction: https://teamboss.github.io/repo/depictions/?p=io.teamboss.chinesehack
+
+
+Package: io.teamboss.codteamboss
+Name: [PMT]Call of Duty¬Æ: Mobile - JB MOD
+Version: 1.0.16
+Section: COD Mobile
+Depends: mobilesubstrate
+Description: [PMT] Call of Duty¬Æ: Mobile 1.0.16 - MOD by TheArmKing @Platinmods.com
+Author: TheArmKing <nomail@mail.no>
+Maintainer: Team-BoSS <nomail@mail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/io.teamboss.codteamboss_1.0.16_iphoneos-arm.deb
+Size: 182008
+MD5sum: 3df2fef61494ea7174b516953ddcb302
+SHA1: f523be8b884cb39f535f3185645dff8eb1a4923e
+SHA256: 2396f7eb5f9b477ec16defc117e4ed7e000df4b8e46ff80d4cea8b036a048b42
+Homepage: https://t.me/HackBossAli
+Depiction: https://teamboss.github.io/repo/depictions/?p=io.teamboss.codteamboss
+
+
+Package: io.teamboss.hideapp
+Name: HideApp（Team-BoSS）
+Version: 0.1.5
+Section: Tweaks
+Depends: mobilesubstrate
+Description: Hide selected apps in app switcher. Supports iOS 11 to 13
+Author: Eng. Abdulaziz alshammari <nomail@mail.no>
+Maintainer: Team-BoSS <nomail@mail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/io.teamboss.hideapp_0.1.5_iphoneos-arm.deb
+Size: 18620
+MD5sum: b4b08e2e1c82b58b66e9254e63735353
+SHA1: 994ee1c590614424008913380433c7b748fd61cf
+SHA256: be95be1286642b0a78e2a921d9cdfbcd3029213586d36558bffa099181518207
+Homepage: https://t.me/HackBossAli
+Depiction: https://teamboss.github.io/repo/depictions/?p=io.teamboss.hideapp
+
+
+Package: io.teamboss.jokerpubg19
+Name: JOKER Pubg Hack 0.19.4.3
+Version: 0.19.4.3
+Section: PUBG Mobile
+Depends: firmware (>= 5.0), mobilesubstrate
+Description: هاك الجوكر الغني عن التعريف
+Author: TheJoker&HiJacker <nomail@mail.no>
+Maintainer: Team-BoSS <nomail@mail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/io.teamboss.jokerpubg19_0.19.4.3_iphoneos-arm.deb
+Size: 1245068
+MD5sum: 04fb6bf39b9b0fb0fe6b6012da607847
+SHA1: ecfce7fc02985d1c4e8b2bcb611dce288361269a
+SHA256: d64e54a63cf434423fa2e5c465924459f7f8f37af8e1e1f274ab65125a83505a
+Depiction: https://teamboss.github.io/repo/depictions/?p=io.teamboss.jokerpubg19
+
+
+Package: io.teamboss.voicechanger
+Name: VoiceChanger
+Version: 2.2.9
+Section: Tweaks
+Depends: mobilesubstrate, applist, preferenceloader, Firmware(>=13.0)
+Description: أداة تغيير الصوت
+Author: DrFaisal <nomail@mail.no>
+Maintainer: Team-BoSS <nomail@mail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/io.teamboss.voicechanger_2.2.9_iphoneos-arm.deb
+Size: 250720
+MD5sum: 34d3897719ead26256e46fff2890c360
+SHA1: 096deecf4c41e50bd368eb2e192e181b49188662
+SHA256: 361d6c72242a98337903df838edb83519a2ebf7e9337ae88c3690b0fe3c44e58
+Depiction: https://teamboss.github.io/repo/depictions/?p=io.teamboss.voicechanger
+
+
+Package: io.teamboss.wallhackv1
+Name: PUBG19 WallHack
+Version: 9.9
+Section: PUBG Mobile
+Depends: mobilesubstrate
+Description: وال هاك ببجي موبايل 0.19.0 شبيه بوال هاك المحاكي
+Author: Team-BoSS <nomail@mail.no>
+Maintainer: Team-BoSS <nomail@mail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/io.teamboss.wallhackv1_9.9_iphoneos-arm.deb
+Size: 88560
+MD5sum: c6070893d10eb3ace435d7f5cdb6e553
+SHA1: 1112854eaffa8e4777f940f9c143a04b385e77ee
+SHA256: a2e2735433a664eb72ed4eca720d2a5ae7f45e92bb7da8f65fc263516d41b0a7
+Depiction: https://teamboss.github.io/repo/depictions/?p=io.teamboss.wallhackv1

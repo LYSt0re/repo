@@ -1,0 +1,24 @@
+<package>
+	<id>io.teamboss.jokerpubg19</id>
+	<name>JOKER Pubg Hack 0.19.4.3</name>
+	<version>0.19.4.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<maxiOS>14.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>هاك الجوكر الغني عن التعريف</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

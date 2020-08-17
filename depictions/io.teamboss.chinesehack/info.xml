@@ -1,0 +1,24 @@
+<package>
+	<id>io.teamboss.chinesehack</id>
+	<name>الهاك الصيني كورية وعالمية</name>
+	<version>0.20.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>14.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>الهاك الصيني ابو ثلاث أصابع الغني عن التعريف</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1,0 +1,24 @@
+<package>
+	<id>io.teamboss.codteamboss</id>
+	<name>[PMT]Call of Duty¬Æ: Mobile - JB MOD</name>
+	<version>1.0.16</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>14.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>[PMT] Call of Duty¬Æ: Mobile 1.0.16 - MOD by TheArmKing @Platinmods.com</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
