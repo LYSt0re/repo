@@ -154,24 +154,6 @@ Homepage: https://t.me/HackBossAli
 Depiction: https://teamboss.github.io/repo/depictions/?p=io.teamboss.crackerxinew
 Icon: file:///Applications/crackerxi.app/AppIcon.png
 
-Package: io.teamboss.dleasycracked
-Name: DLEasy نسخة كاملة
-Version: 2.8.6-2
-Section: Tweaks
-Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, curl
-Description: نسخة كاملة مكركة
-Author: AhmedBafkire <nomail@mail.no>
-Maintainer: Team-BoSS <nomail@mail.com>
-Architecture: iphoneos-arm
-Filename: ./debs/io.teamboss.dleasycracked_v2.8.6-2.deb
-Size: 3389936
-MD5sum: c36aee4d9c34f5493b806d3e8b3e84a7
-SHA1: b86327acc62f4e045ad23610c2c3a09ad030ee82
-SHA256: b12411ef6857e36be78bc6754be4ac4f9b53fc44b1ca36f4f4e26b3ce8aac103
-Homepage: https://t.me/HackBossAli
-Depiction: https://repo.packix.com/package/me.ahmedbafkir.dleasy/
-Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
-
 Package: io.teamboss.flashmod
 Name: PUBGMv19 Free Mod Menu
 Version: 0.19.0
@@ -346,6 +328,22 @@ Size: 164356
 MD5sum: 20ecf8d0c855eb69de9cc01ebb2a74e2
 SHA1: 2e62b7836c5fd49fdafd32f06ff73bb7606c279c
 SHA256: fd8ee7f803cd299c92a67ea2262cefb79e375507da3aae17c302df52950ce765
-Homepage: https://t.me/HackBossAli
 Depiction: https://chariz.com/buy/velvet
 Icon: https://chariz.com/cdn/icon/velvet/icon@3x.png
+
+Package: io.teamboss.dleasycracked
+Name: DLEasy نسخة كاملة
+Version: 2.8.6-2
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, curl
+Description: نسخة كاملة مكركة
+Author: AhmedBafkire <nomail@mail.no>
+Maintainer: Team-BoSS <nomail@mail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/io.teamboss.dleasycracked_v2.8.6-2.deb
+Size: 3389936
+MD5sum: c36aee4d9c34f5493b806d3e8b3e84a7
+SHA1: b86327acc62f4e045ad23610c2c3a09ad030ee82
+SHA256: b12411ef6857e36be78bc6754be4ac4f9b53fc44b1ca36f4f4e26b3ce8aac103
+Depiction: https://repo.packix.com/package/me.ahmedbafkir.dleasy/
+Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
