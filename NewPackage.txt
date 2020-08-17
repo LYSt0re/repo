@@ -1,0 +1,15 @@
+Package: <package>
+Name: Tweakname
+Version: <version>
+Section: <section on your repo>
+Depends: <bundleids>
+Description: <description>
+Author: Yourname <nomail@mail.no>
+Maintainer: Yourname <nomail@mail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/
+Size: <deb in bytes>
+MD5sum: <md5 hash of deb>
+SHA1: <sha1 hash of deb>
+SHA256: <sha256 of deb>
+
