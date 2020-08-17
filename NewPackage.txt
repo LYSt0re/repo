@@ -14,3 +14,4 @@ SHA1: <sha1 hash of deb>
 SHA256: <sha256 of deb>
 Homepage: https://t.me/HackBossAli
 Depiction: https://teamboss.github.io/repo/depictions/?p=[idhere]
+Icon : ./CydiaIcon.png
