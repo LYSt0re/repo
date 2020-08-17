@@ -3,7 +3,7 @@ Name: Apps Hack
 Version: 3.0-1k
 Section: Tweaks
 Depends: mobilesubstrate, ws.hbang.common
-Description: Apps Hacka is new tool to hack more programs and games father store more than 300 hacks on this package.
+Description: Apps Hack is new tool to hack more programs and games father store more than 300 hacks on this package.
 Author: hmodei96 <nomail@mail.no>
 Maintainer: TeamBoSS <nomail@mail.no>
 Architecture: iphoneos-arm
@@ -12,4 +12,4 @@ Size: 1533776
 MD5sum: ff1891044e47aa55b10902e0d9009859
 SHA1: be1ff23f844a694099bb430c0dd005d394582eea
 SHA256: dbca762d72f851838c62ab5e6a8260d339b9d5ad2699db434ed717abe0e38d85
-Depiction: https://teamboss.github.io/depictions/?p=io.teamboss.appshack
+Depiction: https://teamboss.github.io/repo/depictions/?p=io.teamboss.appshack
